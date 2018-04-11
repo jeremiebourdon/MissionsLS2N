@@ -1,0 +1,4 @@
+AuthUserFile /homepages/7/d599415823/htdocs/Missions/.htpasswd
+AuthName "Accès protégé"
+AuthType Basic
+Require valid-user
